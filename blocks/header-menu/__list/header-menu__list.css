@@ -1,0 +1,4 @@
+.header-menu__list {
+  flex-wrap: wrap;
+  display: flex;
+}

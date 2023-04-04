@@ -1,0 +1,4 @@
+.team__accounts {
+  display: flex;
+  justify-content: space-evenly;
+}

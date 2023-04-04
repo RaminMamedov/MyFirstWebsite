@@ -1,0 +1,140 @@
+/*Обнуление стилей*/
+@import "blocks/null/null.css";
+
+/*Создание обертки для всего сайта*/
+@import "blocks/wrapper/wrapper.css";
+
+/*Создание контейнера для всего сайта*/
+@import "blocks/container/container.css";
+
+/*Создание контейнера для контентной части (кроме header и footer), чтобы прижать footer к низу страницы*/
+@import "blocks/content/content.css";
+
+/*Стилизация блока horizontal-line*/
+@import "blocks/horizontal-line/horizontal-line.css";
+@import "blocks/horizontal-line/__style/horizontal-line__style.css";
+
+/*Стилизация блока header*/
+@import "blocks/header/header.css";
+@import "blocks/header/__wrapper/header__wrapper.css";
+@import "blocks/header/__container/header__container.css";
+
+/*Стилизация блока header-logo*/
+@import "blocks/header-logo/header-logo.css";
+@import "blocks/header-logo/__img/header-logo__img.css";
+
+/*Стилизация блока header-menu*/
+@import "blocks/header-menu/header-menu.css";
+@import "blocks/header-menu/__list/header-menu__list.css";
+@import "blocks/header-menu/__item/header-menu__item.css";
+@import "blocks/header-menu/__item/--active/header-menu__item--active.css";
+@import "blocks/header-menu/__link/header-menu__link.css";
+
+/*Стилизация блока front-page*/
+@import "blocks/front-page/front-page.css";
+@import "blocks/front-page/__container/front-page__container.css";
+@import "blocks/front-page/__title/front-page__title.css";
+@import "blocks/front-page/__button/front-page__button.css";
+@import "blocks/front-page/__button-text/front-page__button-text.css";
+@import "blocks/front-page/__button-text/--active/front-page__button-text--active.css";
+
+/*Стилизация блока services*/
+@import "blocks/services/services.css";
+@import "blocks/services/__container/services__container.css";
+@import "blocks/services/__title/services__title.css";
+@import "blocks/services/__text-wrap/services__text-wrap.css";
+@import "blocks/services/__content-text/services__content-text.css";
+@import "blocks/services/__container-element/services__container-element.css";
+@import "blocks/services/__element/services__element.css";
+@import "blocks/services/__body/services__body.css";
+@import "blocks/services/__content/services__content.css";
+@import "blocks/services/__image/services__image.css";
+@import "blocks/services/__img/services__img.css";
+@import "blocks/services/__label/services__label.css";
+@import "blocks/services/__text/services__text.css";
+
+/*Стилизация блока team*/
+@import "blocks/team/team.css";
+@import "blocks/team/__container-element/team__container-element.css";
+@import "blocks/team/__content-text/team__content-text.css";
+@import "blocks/team/__text-wrap/team__text-wrap.css";
+@import "blocks/team/__title/team__title.css";
+@import "blocks/team/__element/team__element.css";
+@import "blocks/team/__about/team__about.css";
+@import "blocks/team/__accounts/team__accounts.css";
+@import "blocks/team/__body/team__body.css";
+@import "blocks/team/__content/team__content.css";
+@import "blocks/team/__image/team__image.css";
+@import "blocks/team/__img/team__img.css";
+@import "blocks/team/__name/team__name.css";
+@import "blocks/team/__position/team__position.css";
+
+/*Стилизация блока skills*/
+@import "blocks/skills/skills.css";
+@import "blocks/skills/__container-element/skills__container-element.css";
+@import "blocks/skills/__content-text/skills__content-text.css";
+@import "blocks/skills/__text-wrap/skills__text-wrap.css";
+@import "blocks/skills/__title/skills__title.css";
+@import "blocks/skills/__element/skills-element.css";
+@import "blocks/skills/__content/skills__content.css";
+@import "blocks/skills/__image/skills__image.css";
+@import "blocks/skills/__img/skills__img.css";
+@import "blocks/skills/__progressbar-text/skills__progressbar-text.css";
+
+/*Стилизация блока portfolio*/
+@import "blocks/portfolio/portfolio.css";
+@import "blocks/portfolio/__title/portfolio__title.css";
+@import "blocks/portfolio/__text/portfolio__text.css";
+@import "blocks/portfolio/__text-wrap/portfolio__text-wrap.css";
+@import "blocks/portfolio/__menu/portfolio__menu.css";
+@import "blocks/portfolio/__menu-link/portfolio__menu-link.css";
+@import "blocks/portfolio/__menu-link/__menu-link--active/portfolio__menu-link--active.css";
+@import "blocks/portfolio/__menu-item/portfolio__menu-item.css";
+@import "blocks/portfolio/__menu-btn/portfolio__menu-btn.css";
+@import "blocks/portfolio/__img/portfolio__img.css";
+@import "blocks/portfolio/__img-text/portfolio__img-text.css";
+@import "blocks/portfolio/__element/portfolio__element.css";
+@import "blocks/portfolio/__container-element/portfolio__container-element.css";
+@import "blocks/portfolio/__button/portfolio__button.css";
+@import "blocks/portfolio/__button-text/portfolio__button-text.css";
+@import "blocks/portfolio/__button-text/__button-text--active/portfolio__button-text--active.css";
+
+/*Стилизация блока about*/
+@import "blocks/about/about.css";
+@import "blocks/about/__title/about__title.css";
+@import "blocks/about/__text-wrap/about__text-wrap.css";
+@import "blocks/about/__text/about__text.css";
+@import "blocks/about/__container-element/about__container-element.css";
+@import "blocks/about/__element/about__element.css";
+@import "blocks/about/__content/about__content.css";
+@import "blocks/about/__image/about__image.css";
+@import "blocks/about/__img/about__img.css";
+@import "blocks/about/__body/about__body.css";
+@import "blocks/about/__comment/about__comment.css";
+@import "blocks/about/__name/about__name.css";
+@import "blocks/about/__position/about__position.css";
+
+/*Стилизация блока contacts*/
+@import "blocks/contacts/contacts.css";
+@import "blocks/contacts/__main-container/contacts__main-container.css";
+@import "blocks/contacts/__title/contacts__title.css";
+@import "blocks/contacts/__text-wrap/contacts__text-wrap.css";
+@import "blocks/contacts/__text/contacts__text.css";
+@import "blocks/contacts/__container/contacts__container.css";
+@import "blocks/contacts/__container-name/contacts__container-name.css";
+@import "blocks/contacts/__input-name/contacts__input-name.css";
+@import "blocks/contacts/__container-mail/contacts__container-mail.css";
+@import "blocks/contacts/__input-mail/contacts__input-mail.css";
+@import "blocks/contacts/__container-message/contacts__container-message.css";
+@import "blocks/contacts/__textarea/contacts__textarea.css";
+@import "blocks/contacts/__button/contacts__button.css";
+@import "blocks/contacts/__button-text/contacts__button-text.css";
+@import "blocks/contacts/__button-text/--active/contacts__button-text--active.css";
+
+/*Стилизация блока footer*/
+@import "blocks/footer/footer.css";
+@import "blocks/footer/__menu/footer__menu.css";
+@import "blocks/footer/__list/footer__list.css";
+@import "blocks/footer/__item/footer__item.css";
+@import "blocks/footer/__link/footer__link.css";
+@import "blocks/footer/__link/--active/footer__link--active.css";

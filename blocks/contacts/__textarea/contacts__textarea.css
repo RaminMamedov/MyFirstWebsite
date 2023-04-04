@@ -1,0 +1,10 @@
+.contacts__textarea {
+  background-color: #273a71;
+  display: flex;
+  height: 200px;
+  padding: 20px;
+  font-size: 18px;
+  color: white;
+  border-radius: 3px;
+  min-width: 100%;
+}

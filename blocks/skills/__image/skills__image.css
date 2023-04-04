@@ -1,0 +1,5 @@
+.skills__image {
+  display: inline-block;
+  margin-bottom: 25px;
+  flex: 0 0 160px
+}

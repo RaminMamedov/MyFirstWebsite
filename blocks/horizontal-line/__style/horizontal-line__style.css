@@ -1,0 +1,8 @@
+.horizontal-line__style {
+  display: block;
+  height: 4px;
+  border: 0;
+  border-top: 2px solid #000;
+  margin-bottom: 20px;
+  opacity: 0.15;
+}

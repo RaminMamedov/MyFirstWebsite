@@ -1,0 +1,5 @@
+@media (any-hover: hover) {
+  .footer__link--active:hover {
+    color: #30bae7;
+  }
+}

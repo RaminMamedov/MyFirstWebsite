@@ -1,0 +1,22 @@
+.front-page__title {
+  font-size: 42.5px;
+  font-weight: 700;
+  text-align: center;
+  color: #f7f3ea;
+  margin-bottom: 80px;
+}
+@media (max-width: 992px) {
+  .front-page__title {
+    font-size: 35px;
+}
+}
+@media (max-width: 480px) {
+  .front-page__title {
+    font-size: 24px;
+}
+}
+@media (max-width: 376px) {
+  .front-page__title {
+    font-size: 20px;
+}
+}

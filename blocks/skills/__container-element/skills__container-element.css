@@ -1,0 +1,6 @@
+.skills__container-element {
+  display: flex;
+  flex-wrap: wrap;
+  margin: 0 -15px;
+  padding-bottom: 80px;
+}

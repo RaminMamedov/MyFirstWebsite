@@ -1,0 +1,5 @@
+@media (any-hover: hover) {
+  .front-page__button-text--active:hover {
+    background-color: #c7511a;
+  }
+}

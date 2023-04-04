@@ -1,0 +1,19 @@
+.portfolio__img {
+  max-width: 450px;
+  margin-bottom: 30px;
+}
+@media (max-width: 992px) {
+  .portfolio__img {
+    max-width: 400px;
+  }
+}
+@media (max-width: 425px) {
+  .portfolio__img {
+    max-width: 300px;
+  }
+}
+@media (max-width: 320px) {
+  .portfolio__img {
+    max-width: 200px;
+  }
+}

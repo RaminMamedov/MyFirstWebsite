@@ -1,0 +1,12 @@
+.portfolio__menu-btn {
+  flex: 0 1 25%;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+@media (max-width: 580px) {
+  .portfolio__menu-btn {
+    flex: 0 1 50%;
+    margin-bottom: 20px;
+  }
+}

@@ -1,0 +1,6 @@
+.services__container-element {
+  display: flex;
+  flex-wrap: wrap;
+  margin: 0px -25px;
+  padding-bottom: 80px;
+}

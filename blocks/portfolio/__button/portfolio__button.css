@@ -1,0 +1,6 @@
+.portfolio__button {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  padding-bottom: 80px;
+}

@@ -1,0 +1,12 @@
+.front-page__button-text {
+  font-size: 17.5px;
+  font-weight: 600;
+  line-height: 1.5;
+  letter-spacing: 0.35px;
+  color: #fff;
+  background-color: #eb7d4b;
+  padding: 20px 50px;
+  border-radius: 5px;
+  text-transform: uppercase;
+  min-height: 67px;
+}

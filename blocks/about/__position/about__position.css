@@ -1,0 +1,11 @@
+.about__position {
+  font-size: 18px;
+  letter-spacing: 0.36px;
+  text-align: left;
+  color: #fd9;
+}
+@media (max-width: 480px) {
+  .about__position {
+    font-size: 14px;
+}
+}

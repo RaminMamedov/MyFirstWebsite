@@ -1,0 +1,6 @@
+@media (any-hover: hover) {
+  .header-menu__item--active:hover {
+    background-color: #643a79;
+    border-radius: 5px;
+  }
+}

@@ -1,0 +1,17 @@
+.portfolio__element {
+  flex: 0 1 50%;
+  padding: 0 10px;
+  margin-bottom: 10px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+@media (max-width: 992px) {
+  .portfolio__element {
+    flex: 0 1 100%;
+    margin-bottom: 20px;
+  }
+}
+.portfolio__element:last-child {
+  margin-bottom: 0px;
+}

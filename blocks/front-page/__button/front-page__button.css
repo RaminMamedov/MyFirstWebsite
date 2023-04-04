@@ -1,0 +1,6 @@
+.front-page__button {
+  justify-content: center;
+  text-align: center;
+  display: flex;
+  padding-bottom: 120px;
+}

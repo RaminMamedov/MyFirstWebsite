@@ -1,0 +1,10 @@
+.portfolio__img-text {
+  font-size: 18px;
+  letter-spacing: 0.36px;
+  text-align: center;
+  color: #393939;
+  margin-bottom: 30px;
+}
+.portfolio__img-text:last-child {
+  margin-bottom: 0px;
+}

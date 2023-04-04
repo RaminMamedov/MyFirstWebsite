@@ -1,0 +1,6 @@
+.portfolio__container-element {
+  display: flex;
+  flex-wrap: wrap;
+  margin: 0 -10px;
+  margin-bottom: 40px;
+}

@@ -1,0 +1,15 @@
+.contacts__text-wrap {
+  max-width: 800px;
+  margin: 0 auto;
+  margin-bottom: 70px;
+}
+@media (max-width: 992px) {
+  .contacts__text-wrap {
+    max-width: 600px;
+}
+}
+@media (max-width: 425px) {
+  .contacts__text-wrap {
+    max-width: 300px;
+}
+}
